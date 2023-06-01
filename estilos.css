@@ -28,7 +28,9 @@ footer{
      align-items: center;
      justify-content: center;
 }
-
+.greeting {
+     text-align: center;
+}
 .row {
     display: flex;
     flex-wrap: wrap;
